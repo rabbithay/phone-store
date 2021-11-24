@@ -1,70 +1,99 @@
-# Getting Started with Create React App
+# Phone-Store ☎️
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+</br>
 
-## Available Scripts
+<p align="center">
+  <img src="src/assets/logo-readme.svg" width="175" alt="phone-store" />
+</p>
 
-In the project directory, you can run:
+</br>
 
-### `npm start`
+## About ❔
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+---
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+PhoneStore is (as the name implies) an e-commerce for mobile phones. Feel free to choose as many as you like, the stock is unlimited and you pay nothing at the time of purchase!! (but also does not receive)
 
-### `npm test`
+</br>
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Deployment 🚀
 
-### `npm run build`
+---
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+<p align="center"><a  href="https://front-phone-store.vercel.app/">PhoneStore</a></p>
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+</br>
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## API repository 🧠
 
-### `npm run eject`
+---
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+<p align="center"><a  href="https://github.com/Deltinha/back-phone-store">PhoneStore API</a></p>
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+</br>
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+## Features ✅
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+---
 
-## Learn More
+- [x] see available products
+- [x] filter products by categories
+- [x] see cell phone details on product page
+- [x] register and log into the store
+- [x] add products to cart
+- [x] alter the quantity of each product in cart
+- [x] or delete products from cart
+- [x] confirm and finish your order
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+</br>
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## How to run 🏃‍♀️💨
 
-### Code Splitting
+---
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+```bash
+# Clone this repository
+$ git clone <https://github.com/rabbithay/phone-store.git>
 
-### Analyzing the Bundle Size
+# Access the project folder cmd/terminal
+$ cd phone-store
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+# Install the dependencies
+$ npm install
 
-### Making a Progressive Web App
+# Compile the code
+$ npm run build
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+# Run the application 
+$ npm start
 
-### Advanced Configuration
+# The server will automatically start at localhost:3000/ on your favorite browser 
+```
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+</br>
 
-### Deployment
+## Tech Stack 💾
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+---
 
-### `npm run build` fails to minify
+<br/>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+<p align="center">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" />
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+<img alt="eslint" src="https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white" />
+</p>
+
+<br>
+<br>
+<br>
+
+---
+
+<p align='center'>
+  Made by <a  href="https://github.com/rabbithay">Thayaná Coelho</a> e <a  href="https://github.com/Deltinha/">Moisés Brandão</a>
+</p>
